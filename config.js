@@ -1,11 +1,12 @@
 const CONFIG = {
-    introTitle: 'eccccxcxcxzcxxcxcsxm ơi!',
-    introDesc: `Trái đất vốn xcxcxlạ thườngsdvdsjhvdsakjdbskjdbsj
-    Mà sao em cứ đi nhầm vào trái tim anh vậy`,
-    btnIntro: 'hihiạbdsjdbjsbsdjsjsfbasuigfasuio',
-    title: 'Phảxxcxcxzxxcxxcxci chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thíxcxcxch anh <33',
+    introTitle: 'Hi, the cutiest girl in my heart :)',
+    introDesc: `I know the way I send you this link is pretty impolite.
+    Almost people will leave and think it quite werid.
+    But can you countinue it until end?`,
+    btnIntro: 'I had something to talk with you. ',
+    title: 'I go crazy because of you, baby. My heart beats fast when I am thinking of you.',
+    desc: 'I dont know why I miss you all day and night. Do you wanna have a boyfriend? ',
+    btnYes: 'Yes <33',
     btnNo: 'Không, Anh trai àxcxzc :3',
     question:'Txxzczxcxzrên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
