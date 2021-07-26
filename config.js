@@ -6,9 +6,9 @@ const CONFIG = {
     btnIntro: 'I had something to talk with you. ',
     title: 
     'I go crazy because of you, baby. My heart beats fast when I am thinking of you.',
-    desc: 'I dont know why I miss you all day and night. Do you wanna have a date with me? ',
-    btnYes: 'Yes, I do <33',
-    btnNo: 'No, bro :3',
+    desc: 'I dont know why I miss you all day and night. Do you wanna have a soulmate? ',
+    btnYes: 'Yes, I do. However, I guess that he is here now. ╰(*°▽°*)╯',
+    btnNo: 'No, bro. ≡(▔﹏▔)≡',
     question:' Type to see more <3',
     btnReply: ' Press to leave.',
     reply: ' I love you so much <33333333',
