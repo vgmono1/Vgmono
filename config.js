@@ -7,7 +7,7 @@ const CONFIG = {
     title: 
     'I go crazy because of you, baby. My heart beats fast when I am thinking of you.',
     desc: 'I dont know why I miss you all day and night. Do you wanna have a soulmate? ',
-    btnYes: 'Yes, I do. However, I guess that he is here now. ╰(*°▽°*)╯',
+    btnYes: 'Yes, I do.I guess that he is here now. ╰(*°▽°*)╯',
     btnNo: 'No, bro. I think we should be friend. ≡(▔﹏▔)≡',
     question:' Type to see more <3',
     btnReply: ' Press to leave.',
