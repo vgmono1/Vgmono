@@ -1,13 +1,11 @@
 const CONFIG = {
     introTitle: 'Hi, the cutiest girl in my heart.            (*^▽^*)',
-    introDesc: `I know the way I send you this link is pretty impolite.
-     Almost people will leave and think it quite werid.
-     But can you continue it until end?`,
+    introDesc: `I know the way I send you this link is pretty impolite. Almost people will leave and think it quite werid. But can you continue it until end?`,
     btnIntro: 'I had something to talk with you. ',
     title: 
     'I go crazy because of you, baby. My heart beats fast when I am thinking of you.',
     desc: 'I dont know why I miss you all day and night. Do you wanna have a soulmate? ',
-    btnYes: 'Yes, I do.I guess that he is here now. ╰(*°▽°*)╯',
+    btnYes: 'Yes, I do. I guess that he is here now. ╰(*°▽°*)╯',
     btnNo: 'No, bro. I think we should be friend. ≡(▔﹏▔)≡',
     question:' Type to see more <3',
     btnReply: ' Press to leave.',
