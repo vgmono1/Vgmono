@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Hi, the cutiest girl in my heart.            (*^▽^*)',
+    introTitle: 'Hi, there.            (*^▽^*)',
     introDesc: `I know the way I send you this link is pretty impolite. Almost people will leave and think it quite werid. But can you continue it until end?`,
     btnIntro: 'I had something to talk with you. ',
     title: 
