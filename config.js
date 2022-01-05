@@ -13,5 +13,5 @@ const CONFIG = {
     mess: ' Hehe I know 🥰. Love you too 😘😘',
     messDesc: 'Good night my soulmate. ',
     btnAccept: ' You too. (●’◡’●)',
-    messLink: 'https://www.instagram.com/vgmono1/'
+    messLink: 'https://www.facebook.com/profile.php?id=100071366477875'
 }
